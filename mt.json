@@ -1,0 +1,85 @@
+[
+
+{
+        "type": "Users Request Movies",
+   "movies": [
+           {
+  "movieName":"The Boy Who Harnessed the Wind",
+    "img":"http://zegomovie.com/Uploads/vod/2019-08-09/5d4d268d30e62.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheBoyWhoHarnessedtheWind/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheBoyWhoHarnessedtheWind/index.m3u8"
+    
+  },
+        {
+  "movieName":"Avatar: The Way of Water (2022)",
+    "img":"http://mycinema.asia/image//20221227/avatar_13666.jpg",
+    "downloadLink":"http://media1.mycinema.asia/media/films/Avatar.The.Way.of.Water.2022.360p/Avatar.The.Way.of.Water.2022.360p.m3u8",
+    "playLink": "http://media1.mycinema.asia/media/films/Avatar.The.Way.of.Water.2022.360p/Avatar.The.Way.of.Water.2022.360p.m3u8"
+    
+  },
+{
+  "movieName":"Whitney,a look Back",
+    "img":"http://zegomovie.com/Uploads/vod/2022-05-11/627b817ca9e73.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/WhitneyaLookBack/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/WhitneyaLookBack/index.m3u8"
+    
+  },
+{
+  "movieName":"Whitney",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-24/5d105263111c2.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Whitney/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Whitney/index.m3u8"
+    
+  },
+{
+  "movieName":"Thank God",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-13/639849594688f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ThankGod/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ThankGod/index.m3u8"
+    
+  },
+           {
+  "movieName":"A Thousand Words(2012)",
+    "img":"https://m.media-amazon.com/images/M/MV5BMTAzODAwODkwMjBeQTJeQWpwZ15BbWU3MDI4MDE3NDc@._V1_.jpg",
+    "downloadLink":"https://ko.htay2.workers.dev/0:/Movies%20&%20Series/Movies/-A-Z/A/(CM)%20A.Thousand.Words.2012.mp4",
+    "playLink": "https://ko.htay2.workers.dev/0:/Movies%20&%20Series/Movies/-A-Z/A/(CM)%20A.Thousand.Words.2012.mp4"
+    
+  },
+          {
+  "movieName":"House of flying dagger",
+    "img":"https://m.media-amazon.com/images/M/MV5BMWYzM2JmOWItN2IxZC00MmFjLWEyMTQtYTQ2ODBiNjRlYmZlXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+    "downloadLink":"https://ko.htay2.workers.dev/0:/-Htay/Movies%20&%20Series/Movies/-A-Z/H/House%20of%20Flying%20Daggers%20(2004).mp4",
+    "playLink": "https://ko.htay2.workers.dev/0:/-Htay/Movies%20&%20Series/Movies/-A-Z/H/House%20of%20Flying%20Daggers%20(2004).mp4"
+    
+  },
+        {
+  "movieName":"Now You See Me",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-18/5d08689da34e3.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/NOWYOUSEEME/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/NOWYOUSEEME/index.m3u8"
+    
+  },
+               {
+  "movieName":"Now You See Me 2",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d074e22ede97.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/NOWYOUSEEME2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/NOWYOUSEEME2/index.m3u8"
+    
+  },
+               {
+  "movieName":"Titanic",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-24/5ce7b6c187511.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Titanic/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Titanic/index.m3u8"
+    
+  },
+               {
+  "movieName":"Aashiqui 2",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfddc092316c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Aashiqui2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Aashiqui2/index.m3u8"
+    
+  }
+        
+     
+     ]
